@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="200px" height="300" style="display:inline-block;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="200px" height="300" style="display:inline-block;">
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="200px" height="300" style="display:inline-block;position:absolute;left:0;top:0;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="200px" height="300" style="display:inline-block;position:absolute;right:0;top:0;">
 <br>
 <p align="center" width="390px">
     <h1 align="center" width=100%>✩&emsp;Frontend developer&emsp;✩</h1>
@@ -6,7 +6,7 @@
 <p align="center" width="50%">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+friend!;I'm+Nikolay;Welcome+to+my+profile!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50&size=24px">
 </p>
-<div align="center"><img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></div>
+<div align="center"><img alt="Coding" width="40%" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"></div>
 <h3 align="center">My skills</h3>
 <img src="./horizontal-divider-gradient.gif">
 
