@@ -11,7 +11,7 @@
 ```ts
 const Nikolay: Developer = {
     Languages: ["Javascript", "Typescript", "HTML", "CSS", "SCSS"],
-    Libraries: ["React", "Tailwind", "Redux"],
+    Libraries: ["React", "Tailwind", "Redux", "Material UI"],
     Frameworks: ["Next", "Express"],
     Database: ["Postgresql", "MongoDB", "MySQL"],
     Tools: ["Git", "GitHub", "Figma", "VS Code", "Postman"]
@@ -21,7 +21,7 @@ const Nikolay: Developer = {
 • Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,ts,js,react,nextjs,redux,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,ts,js,react,nextjs,redux,tailwind,materialui" />
   </a>
 </p>
 • Backend
