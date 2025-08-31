@@ -10,24 +10,30 @@
 
 ```ts
 const Nikolay: Developer = {
-    Languages: ["Javascript", "Typescript", "HTML", "CSS", "SCSS"],
-    Libraries: ["React", "Tailwind", "Redux", "Material UI"],
+    Languages: ["Javascript", "Typescript", "HTML", "CSS", "SCSS", "SASS"],
     Frameworks: ["Next", "Express"],
+    Libraries: ["React", "Tailwind", "Redux", "Zustand"],
+    UI: ["Material UI", "Shadcn/ui", "Primereact"],
+    Tests: ["Jest", "React-testing-library"],
+    Bundlers: ["Vite", "Webpack", "Turbopack"],
     Database: ["Postgresql", "MongoDB", "MySQL"],
-    Tools: ["Git", "GitHub", "Figma", "VS Code", "Postman"]
+    Tools: ["Git", "GitHub", "Figma", "VS Code", "Postman", "Swagger"]
 };
 ```
 
 • Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=html,css,scss,ts,js,react,nextjs,redux,tailwind,materialui,jest" />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=zustand,shadcn,primereact" />
   </a>
 </p>
 • Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,jest" />
   </a>
 </p>
 • Database
@@ -46,6 +52,9 @@ const Nikolay: Developer = {
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman" />
+  </a>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=swagger" />
   </a>
 </p>
 <br/>
