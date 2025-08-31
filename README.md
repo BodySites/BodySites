@@ -20,8 +20,8 @@ const Nikolay: Developer = {
     Tools: ["Git", "GitHub", "Figma", "VS Code", "Postman", "Swagger"]
 };
 ```
-
-• Frontend
+<br />
+<div>• Frontend</div>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,scss,ts,js,react,nextjs,redux,tailwind,materialui,jest" />
